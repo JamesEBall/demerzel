@@ -63,8 +63,8 @@ export default function Home() {
         <h2 className="text-2xl md:text-3xl font-bold mb-6 md:mb-8">Where to find us</h2>
         <p className="mb-4 md:mb-6">Meet us at an event</p>
         <ul className="text-left list-disc list-inside space-y-4 mb-12 md:mb-16">
-          <li>ETHGlobal Hackathons - We will be running robotics hackathons with a shared $15k prize for builders(link to events).</li>
-          <li>Token2049 & DEVCON - Meet the Demerzel team (form link)</li>
+          <li>ETHGlobal Hackathons - We will be running robotics hackathons with a shared $15k prize for builders</li>
+          <li>Token2049 & DEVCON - Meet the Demerzel team</li>
         </ul>
         <div className="space-y-8 md:space-y-12">
         </div>
