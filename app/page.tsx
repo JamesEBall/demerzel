@@ -53,7 +53,7 @@ export default function Home() {
         </ul>
         <p className="mb-8 md:mb-12">
           Demerzel is pioneering a secure future through robotics, AI, and blockchain.
-          We're addressing the most pressing questions of the future.
+          We&apos;re addressing the most pressing questions of the future.
         </p>
       </div>
       
