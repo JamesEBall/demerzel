@@ -29,7 +29,7 @@ export default function Home() {
         <ul className="text-left list-none space-y-6 md:space-y-8 mb-12 md:mb-16">
           <li>
             <strong className="text-lg">Verifiable Computing</strong>
-            <p className="mt-1">Ensuring trust and safety in robotic systems through rigorous verification.</p>
+            <p className="mt-1">Ensuring trust and safety in robotic systems through rigorous software and hardware verification.</p>
           </li>
           <li>
             <strong className="text-lg">Robotic Economies</strong>
@@ -41,7 +41,7 @@ export default function Home() {
           </li>
           <li>
             <strong className="text-lg">Secure Robot to Robot Communications</strong>
-            <p className="mt-1">Using blockchain to ensure safe and secure communication between robots and humans.</p>
+            <p className="mt-1">Using blockchain technologies and cryptography to ensure safe and secure communication between robots and humans.</p>
           </li>
           <li>
             <strong className="text-lg">Self-Reliant Agents</strong>
