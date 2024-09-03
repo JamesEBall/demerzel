@@ -88,7 +88,7 @@ export default function Home() {
         </motion.ul>
         <motion.p className="mb-8 md:mb-12" variants={fadeInUp}>
           Demerzel is pioneering a secure future through robotics, AI, and blockchain.
-          We're addressing the most pressing questions of the future.
+          We&apos;re addressing the most pressing questions of the future.
         </motion.p>
       </motion.div>
       
