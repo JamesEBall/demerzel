@@ -1,16 +1,13 @@
-import Image from "next/image";
-
 export default function Home() {
   return (
     <main className="font-roboto max-w-[700px] mx-auto p-4 md:p-8">
       {/* Section 1 */}
       <div className="flex flex-col justify-center min-h-screen text-center">
-        <h1 className="text-4xl md:text-5xl font-bold mb-6 md:mb-8">Demerzel</h1>
-        <p className="mb-8 md:mb-12 text-lg">We are Demerzel</p>
+        <h1 className="typed-out justify-center mb-8 md:mb-12 text-lg">We are Demerzel</h1>
         <div className="space-y-6 md:space-y-8 mb-12 md:mb-16">
-          <p>
+          <p className="text-lg">
             We are a team of dedicated builders who exist at the intersection of two
-            technologies we believe will be transformative: Blockchain and Robotics.
+            transformative technologies: Blockchain and Robotics.
           </p>
           <p>
             Fundamentally we believe that Robotics will be a transformative force, disrupting
