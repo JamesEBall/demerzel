@@ -9,7 +9,7 @@ const jura = Jura({
 });
 
 export const metadata: Metadata = {
-  title: "Demerzel",
+  title: "Nethermind",
   description: "The Future of Robotics",
 };
 

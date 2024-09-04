@@ -35,7 +35,7 @@ export default function Home() {
           className="typed-out justify-center mb-8 md:mb-12 text-lg"
           variants={fadeInUp}
         >
-          We are Demerzel
+          We are Nethermind
         </motion.h1>
         <motion.div 
           className="space-y-6 md:space-y-8 mb-12 md:mb-16"
@@ -91,7 +91,7 @@ export default function Home() {
           ))}
         </motion.ul>
         <motion.p className="mb-8 md:mb-12" variants={fadeInUp}>
-          Demerzel is pioneering a secure future through robotics, AI, and blockchain.
+          Nethermind is pioneering a secure future through robotics, AI, and blockchain.
           We&apos;re addressing the most pressing questions of the future.
         </motion.p>
       </motion.div>
@@ -116,9 +116,6 @@ export default function Home() {
         >
           Where to find us
         </motion.h2>
-        <motion.p className="mb-4 md:mb-6" variants={fadeInUp}>
-          Meet us at an event
-        </motion.p>
         <motion.ul 
           className="text-left list-disc list-inside space-y-4 mb-12 md:mb-16"
           variants={staggerChildren}
